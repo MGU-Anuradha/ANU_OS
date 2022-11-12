@@ -775,7 +775,7 @@ _save_string:
 
 	wel6 db ' Bootloader - Ultimate Boot Loader - Matthew Vea', 0x00
 
-	wel7 db ' version 1.0.0 of MMP_OS From M.M.P Jayarathne - SE/2019/013', 0x00
+	wel7 db ' version 1.0.0 of ANU_OS From M.G.U.Anuradha - SE/2019/049', 0x00
 
 
 
